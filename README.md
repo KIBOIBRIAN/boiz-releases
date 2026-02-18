@@ -10,7 +10,7 @@ All releases are available in the [Releases](https://github.com/boiz-app/boiz-re
 
 | Platform | File Types |
 |----------|------------|
-| **Windows** | `.exe` (Installer & Portable) |
+| **Windows** | `.exe` (Installer) |
 
 
 ## Installation
