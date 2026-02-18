@@ -4,7 +4,7 @@ This repository contains the official release builds for **Boiz** (KianAI) - an 
 
 ## Downloads
 
-All releases are available in the [Releases](https://github.com/KIBOIBRIAN/boiz-releases/releases) section.
+All releases are available in the [Releases](https://github.com/boiz-app/boiz-releases/releases) section.
 
 ### Supported Platforms
 
@@ -24,7 +24,7 @@ All releases are available in the [Releases](https://github.com/KIBOIBRIAN/boiz-
 
 ## Version History
 
-See the [Releases](https://github.com/KIBOIBRIAN/boiz-releases/releases) page for detailed changelogs.
+See the [Releases](https://github.com/boiz-app/boiz-releases/releases) page for detailed changelogs.
 
 ## Requirements
 
@@ -33,7 +33,7 @@ See the [Releases](https://github.com/KIBOIBRIAN/boiz-releases/releases) page fo
 
 ## Support
 
-- Website: [Website](https://boiz.space.z.ai)
+- Website: [Website](https://boiz.vercel.app)
 - Email: boizappafrica@gmail.com
 
 ## License
